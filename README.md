@@ -43,7 +43,7 @@
 
 | Project | Description | Tech | Live Demo |
 |---|---|---|---|
-| ⚖️ [AI Legal Document Intelligence System](https://github.com/Jameelanas7860/Tata-Legal-AI-Document-Intelligence-System) | AI-powered system for analyzing and extracting insights from legal documents | React.js, AI/ML Integration | [Add link](#) |
+| ⚖️ [AI Legal Document Intelligence System](https://github.com/Jameelanas7860/Tata-Legal-AI-Document-Intelligence-System) | AI-powered system for analyzing and extracting insights from legal documents | React.js, AI/ML Integration | pinnacle-website-blog.netlify.app |
 | 🛒 [E-commerce Website](https://github.com/Jameelanas7860/E-commerce--website) | Component-based e-commerce UI practice | React.js, Tailwind CSS | [Add link](#) |
 | 🏫 [KidsSchool](https://github.com/Jameelanas7860/KidsSchool) | Responsive school website | React.js, Tailwind CSS | [Add link](#) |
 | 📝 [Pinnacle](https://github.com/Jameelanas7860/Pinnacle) | Fully responsive blog page | React.js | [Add link](#) |
