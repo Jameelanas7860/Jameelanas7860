@@ -6,9 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/anasjameelfd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your-anasjameel0786@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
 
 ---
 
@@ -16,7 +17,6 @@
 
 - 🎓 B.Tech in Computer Science — AKTU (2020–2024)
 - 💼 Frontend Developer Trainee @ **AlmaBetter** (since Feb 2025)
-- 📍 Based in Prayagraj, Uttar Pradesh, India
 - 🔭 Actively looking for frontend developer opportunities
 - 🌱 Currently sharpening my React.js and Tailwind CSS skills
 - ⚡ Fun fact: I also work as a private tutor alongside development
@@ -43,10 +43,10 @@
 
 | Project | Description | Tech | Live Demo |
 |---|---|---|---|
-| ⚖️ [AI Legal Document Intelligence System](https://github.com/Jameelanas7860/Tata-Legal-AI-Document-Intelligence-System) | AI-powered system for analyzing and extracting insights from legal documents | React.js, AI/ML Integration | pinnacle-website-blog.netlify.app |
-| 🛒 [E-commerce Website](https://github.com/Jameelanas7860/E-commerce--website) | Component-based e-commerce UI practice | React.js, Tailwind CSS | [Add link](#) |
-| 🏫 [KidsSchool](https://github.com/Jameelanas7860/KidsSchool) | Responsive school website | React.js, Tailwind CSS | [Add link](#) |
-| 📝 [Pinnacle](https://github.com/Jameelanas7860/Pinnacle) | Fully responsive blog page | React.js | [Add link](#) |
+| ⚖️ [AI Legal Document Intelligence System](https://github.com/Jameelanas7860/Tata-Legal-AI-Document-Intelligence-System) | AI-powered system for analyzing and extracting insights from legal documents | React.js, AI/ML Integration | [Live Demo](https://eclectic-biscotti-bca046.netlify.app/) |
+| 🛒 [E-commerce Website](https://github.com/Jameelanas7860/E-commerce--website) | Component-based e-commerce UI practice | React.js, Tailwind CSS | [Live Demo](https://jameelanas7860.github.io/E-commerce--website/) |
+| 🏫 [KidsSchool](https://github.com/Jameelanas7860/KidsSchool) | Responsive school website | React.js, Tailwind CSS | [Live Demo](https://jameelanas7860.github.io/KidsSchool/) |
+| 📝 [Pinnacle](https://github.com/Jameelanas7860/Pinnacle) | Fully responsive blog page | React.js | [Live Demo](https://pinnacle-website-blog.netlify.app) |
 
 *(Pin these 4 on your profile — Settings → Customize your pins)*
 
@@ -68,8 +68,8 @@
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/anasjameelfd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:your-anasjameel0786@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="center"><i>⭐️ Thanks for stopping by — feel free to explore my repos!</i></p>
