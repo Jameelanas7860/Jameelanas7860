@@ -60,22 +60,26 @@
 <tr>
 <td width="50%">
 
+<img src="assets/ai-legal-document-intelligence-system.png" width="100%"/>
+
 **⚖️ [AI Legal Document Intelligence System](https://github.com/Jameelanas7860/Tata-Legal-AI-Document-Intelligence-System)**
 
-AI-powered system for analyzing and extracting insights from legal documents.
+7-page AI-powered legal document workflow — upload, review, analysis, audit, profile & settings — built with React.js, TypeScript, Tailwind CSS, Vite, and Google Gemini API with Supabase/pgvector for document intelligence.
 
-`React.js` `AI/ML Integration`
+`React.js` `TypeScript` `Tailwind CSS` `Gemini AI` `Supabase`
 
 🔗 [Live Demo](https://eclectic-biscotti-bca046.netlify.app/)
 
 </td>
 <td width="50%">
 
-**🛒 [E-Commerce Website](https://github.com/Jameelanas7860/E-commerce--website)**
+<img src="assets/e-commerce-website.png" width="100%"/>
 
-Component-based e-commerce UI built to practice scalable frontend architecture.
+**🛒 [Forever E-Commerce Website](https://github.com/Jameelanas7860/E-commerce--website)**
 
-`React.js` `Tailwind CSS`
+Responsive shopping platform with 5+ core functions — product discovery, cart handling, quantity controls & search — built with React.js, Vite, and Tailwind CSS.
+
+`React.js` `Vite` `Tailwind CSS`
 
 🔗 [Live Demo](https://jameelanas7860.github.io/E-commerce--website/)
 
@@ -84,20 +88,24 @@ Component-based e-commerce UI built to practice scalable frontend architecture.
 <tr>
 <td width="50%">
 
+<img src="assets/kidsschool.png" width="100%"/>
+
 **🏫 [KidsSchool](https://github.com/Jameelanas7860/KidsSchool)**
 
-Fully responsive school website with a component-driven, mobile-first design.
+Responsive educational website built with React.js and Bootstrap, with reusable sections and consistent navigation across devices.
 
-`React.js` `Tailwind CSS`
+`React.js` `Bootstrap`
 
 🔗 [Live Demo](https://jameelanas7860.github.io/KidsSchool/)
 
 </td>
 <td width="50%">
 
+<img src="assets/pinnacle-blog-website.png" width="100%"/>
+
 **📝 [Pinnacle](https://github.com/Jameelanas7860/Pinnacle)**
 
-Fully responsive blog page focused on clean typography and layout.
+Fully responsive blog page focused on clean typography and layout, built with React.js.
 
 `React.js`
 
@@ -106,6 +114,16 @@ Fully responsive blog page focused on clean typography and layout.
 </td>
 </tr>
 </table>
+
+<br/>
+
+---
+
+### 📜 Certifications
+
+- 🎓 **Frontend Engineering** — AlmaBetter *(June 2026)*
+- 🎓 **React E-Commerce Project** — GreatStack *(April 2026)*
+- 🎓 **React.js - Basics to Advance** — Physics Wallah *(August 2026)*
 
 <br/>
 
