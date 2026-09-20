@@ -1,372 +1,310 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=220&section=header&text=ANAS%20JAMEEL&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Anas%20Jameel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20React.js%20%7C%20AI-Integrated%20Web%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Frontend+Developer;React.js+%7C+JavaScript+%7C+Tailwind+CSS;Building+Modern+Web+Applications;Exploring+Generative+AI+%26+RAG;Software+Engineer+in+Progress" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Frontend+Developer+Trainee+%40+AlmaBetter;Building+AI-Integrated+Web+Applications;React.js+%7C+JavaScript+%7C+Tailwind+CSS;Turning+Complex+Problems+into+Clean+UI" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/React-Developer-6366F1?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/India-Uttar%20Pradesh-8B5CF6?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/📍-Prayagraj,%20India-4C1D95?style=flat-square&labelColor=1a1a2e" />
+<img src="https://komarev.com/ghpvc/?username=Jameelanas7860&style=flat-square&color=8b5cf6&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/Jameelanas7860?style=flat-square&color=8b5cf6&labelColor=1a1a2e" />
+<img src="https://img.shields.io/github/stars/Jameelanas7860?style=flat-square&color=8b5cf6&labelColor=1a1a2e" />
 
 <br/><br/>
 
-<a href="https://jameelanas7860.github.io/E-commerce--website/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/anasjameelfd/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Jameelanas7860">
-<img src="https://img.shields.io/badge/GitHub-Profile-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Jameelanas7860&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Jameelanas7860?style=for-the-badge&color=6366F1&labelColor=111827&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/Jameelanas7860?style=for-the-badge&color=8B5CF6&labelColor=111827&label=STARS"/>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Jameelanas7860"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
----
-
-# About Me
-
-I am a **Frontend Developer and Software Engineer in progress** with a strong focus on building responsive, user-centric and scalable web applications.
-
-I work primarily with **HTML, CSS, JavaScript, React.js, Bootstrap and Tailwind CSS**, while continuously expanding my knowledge of **Python, Data Structures & Algorithms and Generative AI**.
-
-My development approach combines clean UI engineering, reusable components, practical problem solving and a product-oriented mindset.
-
-I am also exploring modern AI technologies including **LLMs, Prompt Engineering, LangChain and Retrieval-Augmented Generation (RAG)** to understand how intelligent capabilities can be integrated into real-world applications.
-
-### Engineering Focus
-
-- Frontend architecture and reusable React components
-- Responsive and accessible user interfaces
-- Modern JavaScript development
-- REST API integration
-- Component-driven development
-- Product-focused UI engineering
-- Generative AI application development
-- Problem solving and Data Structures & Algorithms
-
-### Open To
-
-**Frontend Developer · React Developer · Software Engineer · Web Developer · AI-enabled Product Development**
+<br/>
 
 ---
 
-# Tech Stack
+### 🧠 About Me
 
-### Languages
+```yaml
+name: Anas Jameel
+role: Frontend Developer | Aspiring Full-Stack & AI-Integrated Web Engineer
+education: B.Tech in Computer Science, AKTU (2020 - 2024)
+current: Frontend Developer Trainee @ AlmaBetter (Feb 2025 - Present)
+focus:
+  - Building responsive, component-driven interfaces with React.js
+  - Integrating AI/LLM APIs into real-world frontend systems
+  - Writing clean, reusable, production-grade UI code
+open_to:
+  - Frontend Developer roles
+  - Full-Stack opportunities (React + Node)
+  - Freelance / Contract web development
+```
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,python,html,css&theme=dark" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite&theme=dark" />
-</p>
-
-### Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase&theme=dark" />
-</p>
-
-### Cloud, DevOps & Tooling
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,netlify&theme=dark" />
-</p>
+<br/>
 
 ---
 
-# AI / ML Expertise
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+**Frontend**
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
+
+**Backend & APIs**
+<p>
+<img src="https://img.shields.io/badge/REST%20APIs-6D28D9?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM%20API%20Integration-4C1D95?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
+**Tooling & Deployment**
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+<br/>
+
+---
+
+### 🤖 AI / Applied ML Exposure
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Generative AI | Intermediate | LLM concepts, AI application workflows |
-| Prompt Engineering | Intermediate | Structured prompts and task-oriented prompting |
-| LangChain | Learning | LLM application development and orchestration |
-| RAG | Learning | Retrieval-Augmented Generation concepts |
-| LLM Applications | Learning | Exploring AI-powered product experiences |
-| AI-powered UI | Intermediate | Building interfaces for intelligent workflows |
-
----
-
-# Featured Projects
-
-<details>
-<summary><strong>01 · Tata Legal AI Document Intelligence System</strong></summary>
+| LLM API Integration | Intermediate | Integrated AI/LLM APIs into a production-style legal document analysis system |
+| Prompt-Driven UI Workflows | Intermediate | Designed frontend flows around AI-generated responses (loading, streaming, error states) |
+| AI-Assisted Frontend Tooling | Working Knowledge | Uses AI tools to accelerate component development and debugging |
 
 <br/>
 
-An enterprise-style legal document intelligence interface designed to help users upload, process, review and audit legal documents through an AI-assisted workflow.
+---
 
-### Project Metrics
+### 🚀 Featured Projects
 
-| Attribute | Details |
+<details>
+<summary><b>⚖️ AI Legal Document Intelligence System</b></summary>
+<br/>
+
+AI-powered system built for analyzing and extracting insights from legal documents — designed to reduce manual review time by surfacing key clauses and information automatically.
+
+| Aspect | Detail |
 |---|---|
-| **Stack** | React.js · JavaScript · Tailwind CSS · Vite |
-| **Scale** | Multi-page enterprise-style frontend |
-| **Performance** | Component-based UI architecture |
-| **Security** | Frontend designed around controlled document workflows |
-| **Impact** | Simplifies document review and legal-risk workflows |
-| **Repository** | [GitHub Repository](https://github.com/Jameelanas7860/Tata-Legal-AI-Document-Intelligence-System) |
-
-### Professional Explanation
-
-Worked as a **Frontend Developer**, focusing on the user interface and frontend experience.
-
-Implemented reusable React components and structured application routes for document upload, processing, review, audit and user settings.
-
-Key frontend areas included:
-
-- Legal document upload workflow
-- Processing-state interface
-- Document review experience
-- Risk and insight presentation
-- Audit workflow UI
-- Profile and settings interfaces
-- Responsive enterprise dashboard design
-- Reusable React component architecture
-
-**Frontend Stack:** React.js · JavaScript · Tailwind CSS · Vite
+| Stack | React.js, AI/LLM Integration |
+| Scale | Client/enterprise-style legal document workflow |
+| Impact | Automates document review, reducing manual reading effort |
+| Repository | [View Source](https://github.com/Jameelanas7860/Tata-Legal-AI-Document-Intelligence-System) |
+| Live Demo | [Open App](https://eclectic-biscotti-bca046.netlify.app/) |
 
 </details>
 
 <details>
-<summary><strong>02 · Forever E-Commerce Platform</strong></summary>
-
+<summary><b>🛒 E-Commerce Website</b></summary>
 <br/>
 
-A modern e-commerce frontend built with React and Tailwind CSS, featuring product discovery, filtering, shopping cart management, authentication and order workflows.
+Component-based e-commerce UI built to practice scalable frontend architecture and state management patterns.
 
-### Project Metrics
-
-| Attribute | Details |
+| Aspect | Detail |
 |---|---|
-| **Stack** | React 19 · React Router · Tailwind CSS · Vite |
-| **Scale** | Multi-page e-commerce application |
-| **Performance** | Reusable components and client-side routing |
-| **Security** | Structured authentication and order-flow UI |
-| **Impact** | Complete shopping experience from discovery to checkout |
-| **Repository** | [GitHub Repository](https://github.com/Jameelanas7860/E-commerce--website) |
-
-### Professional Explanation
-
-Built a responsive e-commerce application using **React.js** and **Tailwind CSS**.
-
-Implemented reusable components and application-level state management for products, search, filters, cart operations and order workflows.
-
-Key features include:
-
-- Product collections
-- Category and subcategory filtering
-- Product search
-- Sorting
-- Product details
-- Cart management
-- Quantity updates
-- Size selection
-- Authentication UI
-- Order placement workflow
-- Responsive layouts
-- Toast notifications
-
-**Live Project:** [View Application](https://jameelanas7860.github.io/E-commerce--website/)
+| Stack | React.js, Tailwind CSS |
+| Scale | Multi-component product/cart UI |
+| Impact | Practice ground for reusable component architecture |
+| Repository | [View Source](https://github.com/Jameelanas7860/E-commerce--website) |
+| Live Demo | [Open App](https://jameelanas7860.github.io/E-commerce--website/) |
 
 </details>
 
 <details>
-<summary><strong>03 · Pinnacle Blog Website</strong></summary>
-
+<summary><b>🏫 KidsSchool</b></summary>
 <br/>
 
-A responsive blog and content-focused web interface designed around structured layouts, navigation and readable content presentation.
+Fully responsive school website built with a component-driven approach and Tailwind-based styling system.
 
-### Project Metrics
-
-| Attribute | Details |
+| Aspect | Detail |
 |---|---|
-| Stack | React.js · JavaScript · Bootstrap · CSS |
-| Scale | Responsive multi-section website |
-| Performance | Component-based frontend structure |
-| Security | Client-side application architecture |
-| Impact | Clean content-focused browsing experience |
-| Repository | [GitHub Profile](https://github.com/Jameelanas7860) |
-
-### Professional Explanation
-
-Developed a responsive blog-style frontend with reusable UI sections, structured navigation and responsive layouts.
-
-The project strengthened practical experience in component-based development, styling and responsive web design.
-
-**Live Project:** [View Website](https://pinnacle-website-blog.netlify.app/)
+| Stack | React.js, Tailwind CSS |
+| Scale | Multi-section responsive website |
+| Impact | Demonstrates responsive design across breakpoints |
+| Repository | [View Source](https://github.com/Jameelanas7860/KidsSchool) |
+| Live Demo | [Open App](https://jameelanas7860.github.io/KidsSchool/) |
 
 </details>
 
----
+<details>
+<summary><b>📝 Pinnacle</b></summary>
+<br/>
 
-# Experience
+Fully responsive blog page built with React.js, focused on clean typography and layout structure.
 
-### Frontend Developer — Project-Based Development
+| Aspect | Detail |
+|---|---|
+| Stack | React.js |
+| Scale | Responsive content/blog layout |
+| Impact | Focused on readability and responsive content structure |
+| Repository | [View Source](https://github.com/Jameelanas7860/Pinnacle) |
+| Live Demo | [Open App](https://pinnacle-website-blog.netlify.app) |
 
-2026 · India
+</details>
 
-Focused on developing modern frontend applications while completing software engineering training and project-based work.
-
-### Scope of Work
-
-- Developed responsive interfaces using React.js
-- Built reusable UI components
-- Implemented client-side routing
-- Integrated frontend application workflows
-- Created responsive layouts using Tailwind CSS and Bootstrap
-- Worked with Git and GitHub for version control
-- Built project demonstrations and technical documentation
-- Explored AI-powered application interfaces
-
-Skills: React.js JavaScript HTML CSS Tailwind CSS Bootstrap Git GitHub
+<br/>
 
 ---
 
-# Achievements
+### 💼 Experience
+
+**Frontend Developer Trainee — AlmaBetter**
+*Feb 2025 — Present*
+
+Working on building and refining responsive, component-based web interfaces as part of a structured frontend training and project pipeline.
+
+- Building UI components using React.js and Tailwind CSS
+- Practicing real-world project workflows: version control, code reviews, deployment
+- Contributed frontend work to the AI Legal Document Intelligence System project
+
+`React.js` `JavaScript` `Tailwind CSS` `Git`
+
+<br/>
+
+---
+
+### 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| B.Tech CSE Graduate | Completed Bachelor of Technology in Computer Science & Engineering |
-| Frontend Project Portfolio | Developed multiple React-based web applications |
-| AI Project Experience | Contributed frontend development to an AI-powered legal document application |
-| AlmaBetter Software Engineering | Currently developing software engineering and AI application skills |
-| DSA Practice | Actively strengthening problem-solving skills with coding challenges |
+| _Add achievement_ | _e.g., Hackathon, certification score, college recognition_ |
+| _Add achievement_ | _e.g., project featured, top performer in training batch_ |
 
 </div>
-
----
-
-# Certifications
-
-### AlmaBetter
-
-<img src="https://img.shields.io/badge/AlmaBetter-Software%20Engineering-7C3AED?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/AlmaBetter-Generative%20AI-6366F1?style=for-the-badge&labelColor=111827"/>
-
-### Learning & Development
-
-<img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-Development-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Generative%20AI-Learning-8B5CF6?style=for-the-badge"/>
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Coding-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jameelanas7860&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jameelanas7860&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" height="180"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Jameelanas7860&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=8B5CF6&currStreakLabel=A78BFA" width="70%"/>
+---
 
-</div>
+### 📜 Certifications
+
+_Add your certifications below, grouped by provider — remove any section you don't have._
+
+**AWS**
+<p><img src="https://img.shields.io/badge/Add%20AWS%20Certification-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /></p>
+
+**NPTEL**
+<p><img src="https://img.shields.io/badge/Add%20NPTEL%20Certification-6D28D9?style=flat-square" /></p>
+
+<br/>
 
 ---
 
-# GitHub Trophies
+### 💻 Coding Profiles
 
-<div align="center">
+_Add your handles below — remove any platform you don't use._
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jameelanas7860&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+<p>
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-Add%20Handle-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Add%20Handle-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-Add%20Handle-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+</p>
 
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jameelanas7860&bg_color=0D1117&color=A78BFA&line=7C3AED&point=8B5CF6&area=true&hide_border=true" width="100%"/>
-
-</div>
+<br/>
 
 ---
 
-# Contribution Snake
+### 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jameelanas7860&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jameelanas7860&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+</p>
 
-<img src="https://raw.githubusercontent.com/Jameelanas7860/Jameelanas7860/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jameelanas7860&theme=radical&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" />
+</p>
 
-</div>
+<br/>
 
 ---
 
-# Current Focus
+### 🏅 GitHub Trophies
 
-yaml
-Learning:
-  - Data Structures & Algorithms
-  - Advanced React.js
-  - Python
-  - Generative AI
-  - LangChain
-  - Retrieval-Augmented Generation
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Jameelanas7860&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</p>
 
-Building:
-  - Production-ready React applications
-  - AI-enabled frontend experiences
-  - Responsive and reusable UI systems
-  - Portfolio-grade software projects
+<br/>
 
-Exploring:
-  - Large Language Models
-  - RAG architectures
-  - AI-powered product engineering
-  - Full-stack development
-  - Modern web application architecture
+---
 
-Open To:
+### 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jameelanas7860&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c9d1d9" />
+</p>
+
+<br/>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Jameelanas7860/Jameelanas7860/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> Note: the snake animation requires a one-time GitHub Actions workflow setup in this repo to generate the SVG.
+
+<br/>
+
+---
+
+### 🎯 Current Focus
+
+```yaml
+learning:
+  - Advanced React patterns (custom hooks, performance optimization)
+  - AI/LLM integration into production frontend systems
+building:
+  - AI Legal Document Intelligence System
+  - Personal portfolio site
+exploring:
+  - Full-stack development with Node.js
+  - Backend fundamentals for AI-integrated apps
+open_to:
   - Frontend Developer roles
-  - React Developer roles
-  - Software Engineer opportunities
-  - Web Development opportunities
-  - AI-enabled product development
+  - Full-Stack opportunities
+  - Freelance frontend/AI-integration projects
+```
+
+<br/>
+
+---
+
+### 📫 Connect
+
+<p align="center">
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Jameelanas7860"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<br/>
+
+<div align="center">
+<i>"Clean code, clear interfaces — building software that just works."</i>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
