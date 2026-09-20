@@ -15,8 +15,8 @@
 <br/><br/>
 
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/anasjameel786/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:anasjameel0786@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Jameelanas7860"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
@@ -76,18 +76,6 @@ open_to:
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
-
-<br/>
-
----
-
-### 🤖 AI / Applied ML Exposure
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| LLM API Integration | Intermediate | Integrated AI/LLM APIs into a production-style legal document analysis system |
-| Prompt-Driven UI Workflows | Intermediate | Designed frontend flows around AI-generated responses (loading, streaming, error states) |
-| AI-Assisted Frontend Tooling | Working Knowledge | Uses AI tools to accelerate component development and debugging |
 
 <br/>
 
@@ -180,49 +168,6 @@ Working on building and refining responsive, component-based web interfaces as p
 
 ---
 
-### 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| _Add achievement_ | _e.g., Hackathon, certification score, college recognition_ |
-| _Add achievement_ | _e.g., project featured, top performer in training batch_ |
-
-</div>
-
-<br/>
-
----
-
-### 📜 Certifications
-
-_Add your certifications below, grouped by provider — remove any section you don't have._
-
-**AWS**
-<p><img src="https://img.shields.io/badge/Add%20AWS%20Certification-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /></p>
-
-**NPTEL**
-<p><img src="https://img.shields.io/badge/Add%20NPTEL%20Certification-6D28D9?style=flat-square" /></p>
-
-<br/>
-
----
-
-### 💻 Coding Profiles
-
-_Add your handles below — remove any platform you don't use._
-
-<p>
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-Add%20Handle-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Add%20Handle-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-Add%20Handle-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-</p>
-
-<br/>
-
----
-
 ### 📊 GitHub Analytics
 
 <p align="center">
@@ -233,38 +178,6 @@ _Add your handles below — remove any platform you don't use._
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jameelanas7860&theme=radical&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" />
 </p>
-
-<br/>
-
----
-
-### 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Jameelanas7860&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
-
-<br/>
-
----
-
-### 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jameelanas7860&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c9d1d9" />
-</p>
-
-<br/>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Jameelanas7860/Jameelanas7860/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-> Note: the snake animation requires a one-time GitHub Actions workflow setup in this repo to generate the SVG.
 
 <br/>
 
@@ -295,8 +208,8 @@ open_to:
 ### 📫 Connect
 
 <p align="center">
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:anasjameel0786@gmail.com"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/anasjameel786/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Jameelanas7860"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
